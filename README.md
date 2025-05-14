@@ -24,7 +24,6 @@ The application aims to increase productivity and consistency in drafting Reques
 
 - **Java 17**
 - **Spring Boot**
-- **Spring MVC** – for building REST APIs  
 - **Spring Data JPA** – for database interaction  
 - **Hibernate** – ORM for Java  
 - **PostgreSQL** – database (if configured, based on typical Spring setup)  
